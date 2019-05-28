@@ -1,0 +1,397 @@
+	item	count
+0	Jeep Commander	15
+1	Ford Fiesta Sedan	32
+2	Lexus LS	116
+3	Mazda CX-9	185
+4	Rolls-Royce Phantom Coupe	25
+5	Jeep Grand Cherokee	11
+6	Mercedes-Benz E-Class Cabriolet	17
+7	Audi S6	18
+8	Hyundai Equus	52
+9	Ford Transit Connect Wagon	11
+10	Suzuki Grand Vitara	16
+11	Kia Rio 5-Door	28
+12	Dodge Ram 1500	26
+13	Dodge Nitro	124
+14	Acura ZDX	14
+15	Ford Expedition	6
+16	Mercedes-Benz E-Class Coupe	25
+17	Audi A7	14
+18	Ford Crown Victoria	27
+19	Kia Optima	66
+20	Nissan Altima Coupe	38
+21	Toyota Corolla	6
+22	GMC Yukon Hybrid	70
+23	Porsche Cayenne	7
+24	Lexus GS	12
+25	Acura RDX	13
+26	Hyundai Azera	10
+27	Infiniti QX56	13
+28	Honda Accord Coupe	21
+29	Toyota 4Runner	10
+30	Mercedes-Benz CLS-Class	12
+31	Rolls-Royce Phantom Drophead Coupe	16
+32	Ford E-250 Van	9
+33	Audi A6 Avant	16
+34	BMW X6	20
+35	GMC Terrain	6
+36	Chevrolet Suburban	7
+37	Mercury Grand Marquis	27
+38	Mazda Mazda3 4-Door	13
+39	Kia Sportage	16
+40	Scion xB	11
+41	Volkswagen GTI 4-Door	23
+42	Audi Q7	109
+43	Dodge Journey	48
+44	Mercedes-Benz G-Class	2
+45	Volkswagen Golf R 4-Door	12
+46	Mercedes-Benz SL-Class	8
+47	BMW M3 Sedan	52
+48	Ford Taurus	33
+49	Kia Optima Hybrid	35
+50	Aston Martin DBS Volante	9
+51	Chevrolet Colorado	6
+52	Nissan Sentra	6
+53	Ford Explorer	6
+54	BMW 5 Series Sedan	36
+55	Kia Rio	6
+56	Lamborghini Gallardo Spyder	38
+57	Chevrolet Camaro Coupe	9
+58	Dodge Dakota	25
+59	Suzuki SX4 Sportback	20
+60	Toyota Tacoma	29
+61	Jaguar XJ	2
+62	Cadillac CTS-V Wagon	16
+63	Maybach 62	12
+64	Bentley Azure T	36
+65	Chevrolet HHR Panel	7
+66	Nissan Armada	12
+67	Hyundai Genesis Coupe	41
+68	Mazda Mazda5	6
+69	Toyota Avalon	26
+70	Audi Q5	8
+71	Lexus IS C	29
+72	Land Rover Range Rover Sport	5
+73	Cadillac CTS-V Coupe	9
+74	Volvo XC60	24
+75	Ford Flex	18
+76	BMW M3 Convertible	24
+77	Volvo XC70	12
+78	BMW 5 Series Gran Turismo	6
+79	Chevrolet Tahoe Hybrid	55
+80	Toyota Yaris Sedan	15
+81	Chevrolet Malibu Hybrid	24
+82	Audi A5 Cabriolet	115
+83	Lincoln Town Car	78
+84	Maybach Landaulet	18
+85	BMW X3	15
+86	Hyundai Elantra Sedan	25
+87	Mitsubishi Lancer Sportback	16
+88	Volkswagen Passat	8
+89	Volkswagen Jetta SportWagen	20
+90	Rolls-Royce Phantom Sedan	22
+91	lexus IS F	36
+92	Chevrolet Aveo5	14
+93	Scion tC	4
+94	Infiniti FX	15
+95	Chevrolet Malibu	6
+96	Audi A5	6
+97	Bentley Continental Supersports	10
+98	Saab 9-3 SportCombi	7
+99	Audi R8 Coupe	18
+100	Mercedes-Benz E-Class Wagon	4
+101	Jaguar XK Convertible	9
+102	Mercury Mariner	5
+103	Acura RL	29
+104	Acura MDX	13
+105	Volkswagen Touareg	20
+106	BMW M3 Coup	12
+107	Kia Forte 5-Door	7
+108	Honda Accord Sedan	3
+109	Mazda Mazdaspeed3	14
+110	Dodge Avenger	24
+111	Subaru Forester	20
+112	Kia Forte	43
+113	Hyundai Santa Fe	23
+114	Dodge Challenger	25
+115	BMW 3 Series Sports Wagon	23
+116	Audi A5 Coupe	5
+117	MINI Cooper Coupe	7
+118	Mercedes-Benz GLK-Class	12
+119	Chevrolet Corvette ZR1	13
+120	Nissan Frontier	15
+121	Volvo S40	15
+122	Saab 9-5 Sedan	2
+123	Kia Soul	19
+124	Audi TT RS	8
+125	Cadillac Escalade ESV	38
+126	Lincoln MKZ Sedan	8
+127	Infiniti G25	10
+128	Toyota Tundra	9
+129	Audi A4 Sedan	26
+130	Chevrolet Suburban Half-Ton	23
+131	Porsche 911 Coupe	12
+132	Chevrolet Corvette Coupe	13
+133	Subaru Legacy	24
+134	Ferrari 612 Scaglietti	11
+135	Lotus Evora	2
+136	Hyundai Genesis Sedan	31
+137	Audi A8	24
+138	Buick Enclave	28
+139	Mazda CX-7	33
+140	Honda Accord Coup	17
+141	Toyota FJ Cruiser	21
+142	Cadillac Escalade Hybrid	14
+143	Chevrolet HHR Wagon	18
+144	Cadillac Escalade	7
+145	Chevrolet Silverado 1500 Hybrid	6
+146	Ford Edge	16
+147	Suzuki SX4 Crossover	20
+148	Mitsubishi Lancer Evolution	29
+149	Saab 9-3 Convertible	2
+150	Lincoln MKT	8
+151	Lotus Exige	2
+152	Mitsubishi Galant	12
+153	Buick Verano	13
+154	BMW 6 Series Coup	5
+155	Mitsubishi Endeavor	28
+156	BMW 3 Series Coup	13
+157	Ford E-150 Wagon	5
+158	BMW 1 Series Coupe	3
+159	Mitsubishi Outlander Sport	9
+160	Ford E-150 Van	15
+161	Volvo S60	14
+162	Lexus RX	24
+163	Saab 9-4X	28
+164	Volvo V70	12
+165	Chevrolet Express	22
+166	Suzuki Kizashi	4
+167	Suzuki SX4 Sedan	16
+168	Chevrolet Tahoe	12
+169	Lexus LFA	8
+170	Chevrolet Corvette Grand Sport Convertible	6
+171	Ford Mustang Coup	11
+172	Porsche 911 Cabriolet	17
+173	Ford E-350 Super Duty Wagon	15
+174	BMW Z4 Roadster	16
+175	Chevrolet Aveo	15
+176	Audi A4 Avant	7
+177	Nissan Titan	3
+178	Honda CR-Z	5
+179	Mitsubishi Eclipse Coupe	13
+180	Land Rover LR4	24
+181	Buick Lucerne	28
+182	Nissan Pathfinder	2
+183	Chevrolet Corvette Convertible	6
+184	GMC Yukon XL	6
+185	Subaru Outback	24
+186	Scion xD	15
+187	Toyota Camry	14
+188	Honda Accord Crosstour Hatchback	15
+189	Dodge Grand Caravan	14
+190	Rolls-Royce Ghost	14
+191	Kia Rio5	11
+192	BMW 1 Series Convertible	17
+193	Acura TL	3
+194	Chrysler 300	8
+195	Volvo C30	10
+196	Hyundai Accent Sedan	6
+197	Cadillac CTS Sport Wagon	9
+198	BMW 1 Series Coup	28
+199	Bentley Continental Supersports Coupe	29
+200	Jeep Liberty	10
+201	Mazda Tribute	10
+202	Audi R8 Spyder	8
+203	Infiniti IPL G Coupe	6
+204	Mercedes-Benz SLK-Class	6
+205	Volkswagen Touareg Hybrid	1
+206	Honda Civic Coup	10
+207	Hyundai Elantra Touring	8
+208	Dodge Caliber	2
+209	Subaru Impreza Hatchback	3
+210	Ford Transit Connect Van	14
+211	Mazda MX-5 Miata	4
+212	Volkswagen GTI 2-Door	13
+213	MINI Countryman	3
+214	Audi S5 Coupe	6
+215	Nissan Cube	17
+216	Maybach 57	14
+217	Volkswagen Golf 4-Door	5
+218	Lexus IS F	6
+219	Jaguar XK Coup	8
+220	Transit Connect Van	4
+221	Toyota Yaris 5-Door Liftback	12
+222	Audi S4 Sedan	4
+223	Mazda Mazda3 5-Door	16
+224	Maserati GranTurismo Coup	5
+225	Mercedes-Benz CL-Class	3
+226	Chevrolet Equinox	18
+227	Volkswagen Tiguan	8
+228	Aston Martin Rapide	8
+229	Chevrolet Sonic Hatchback	5
+230	Buick Regal	12
+231	Cadillac Escalade EXT	6
+232	Aston Martin DB9 Coup	19
+233	Volvo S80	26
+234	Land Rover Range Rover Evoque	14
+235	Honda Fit	4
+236	Mitsubishi Outlander	19
+237	BMW 3 Series Convertible	2
+238	Infiniti G37 Convertible	19
+239	Honda Ridgeline	10
+240	Nissan JUKE	5
+241	Dodge Charger	5
+242	Nissan 370Z Coupe	4
+243	Hyundai Sonata	5
+244	Chrysler Town and Country	9
+245	Volkswagen Beetle	2
+246	Toyota Matrix	4
+247	Dodge Durango	2
+248	BMW ActiveHybrid 7 Sedan	7
+249	Volkswagen CC	8
+250	Suzuki Equator	7
+251	BMW 7 Series	6
+252	Chevrolet Impala	7
+253	Mercury Milan	6
+254	Hyundai Accent Hatchback	6
+255	Nissan 370Z Roadster	12
+256	Hyundai Veloster	9
+257	MINI Cooper Hardtop	22
+258	Bentley Continental Supersports Convertible	2
+259	Ford Focus 5-Door	10
+260	Hyundai Tucson	4
+261	Honda Civic Coupe	13
+262	Mitsubishi Eclipse Spyder	4
+263	Lotus Elise	2
+264	Lexus LX	4
+265	Chrysler Sebring Convertible	6
+266	Toyota Land Cruiser	6
+267	Mazda RX-8	2
+268	Mercedes-Benz GL-Class	7
+269	Acura TSX Sport Wagon	10
+270	Kia Forte Koup	16
+271	Infiniti G37 Coupe	9
+272	Chevrolet Camaro Convertible	4
+273	Dodge Viper Convertible	15
+274	Dodge Viper Coup	4
+275	Chevrolet Cruze	4
+276	Aston Martin V8 Vantage Roadster	7
+277	Bentley Continental Flying Spur	21
+278	Nissan Xterra	10
+279	Chrysler 200 Convertible	6
+280	Ford Focus Coupe	8
+281	Bentley Brooklands	5
+282	Ford Escape	10
+283	Cadillac CTS-V Sedan	2
+284	BMW M6 Coup	4
+285	Honda Pilot	3
+286	Transit Connect Wagon	6
+287	Cadillac SRX	3
+288	Mitsubishi Lancer	7
+289	Audi A6 Sedan	6
+290	Chevrolet Avalanche	11
+291	Porsche Boxster	1
+292	Chrysler 200 Sedan	2
+293	Mazda Mazda2	16
+294	Cadillac STS	4
+295	Toyota Sequoia	8
+296	GMC Sierra 1500	10
+297	Mercedes-Benz R-Class	2
+298	MINI Clubman	8
+299	Lamborghini Gallardo Coup	7
+300	Mercedes-Benz C-Class	4
+301	Bentley Continental GT	8
+302	Mazda Mazda6	13
+303	Ford Fusion	3
+304	Chevrolet Corvette Z06	3
+305	Ford F-150	1
+306	Toyota RAV4	5
+307	BMW ALPINA B7 Sedan	9
+308	Bentley Continental GTC	5
+309	Lexus ES	6
+310	Ford Mustang Convertible	4
+311	Jeep Patriot	4
+312	Toyota Sienna	6
+313	BMW 6 Series Convertible	4
+314	Buick Lacrosse	4
+315	Subaru Impreza WRX Hatchback	4
+316	Acura TSX	1
+317	Subaru Impreza Sedan	3
+318	Infiniti EX	5
+319	Lincoln Navigator	3
+320	BMW X5	12
+321	Audi A3	3
+322	Land Rover LR2	7
+323	Cadillac DTS	3
+324	Honda Element	2
+325	Jaguar XF	10
+326	Hyundai Veracruz	6
+327	Cadillac CTS Coupe	2
+328	Aston Martin Virage Volante	3
+329	Maserati GranTurismo Convertible	9
+330	Volvo C70	4
+331	Volvo XC90	3
+332	BMW 3 Series Sedan	1
+333	Chevrolet Silverado 1500	4
+334	Volkswagen Jetta	1
+335	Aston Martin Virage Coup	2
+336	Lexus IS	3
+337	Hyundai Sonata Hybrid	8
+338	Nissan Versa Hatchback	6
+339	Land Rover Range Rover	7
+340	Kia Sorento	2
+341	Maserati Quattroporte	5
+342	Aston Martin V8 Vantage Coup	1
+343	Porsche Cayman	1
+344	Subaru Impreza WRX Sedan	4
+345	Ford E-350 Super Duty Van	1
+346	Chevrolet Corvette Grand Sport Coupe	1
+347	Jeep Compass	4
+348	Honda CR-V	8
+349	Cadillac SRX Crossover	1
+350	Kia Sedona	6
+351	GMC Sierra 1500 Hybrid	1
+352	BMW 5 Series Sports Wagon	3
+353	Volkswagen Routan	1
+354	Ford Shelby GT500 Coupe	2
+355	Honda Odyssey	4
+356	Lincoln MKS	1
+357	Porsche Cayenne S Hybrid	6
+358	Chevrolet Suburban Three-Quarter-Ton	3
+359	Aston Martin V12 Vantage	4
+360	Volkswagen Golf 2-Door	3
+361	Chrysler Sebring Sedan	2
+362	Lamborghini Gallardo Coupe	1
+363	Nissan Juke	4
+364	Toyota Yaris 3-Door Liftback	1
+365	Chevrolet Traverse	3
+366	BMW M6 Convertible	4
+367	Volvo V50	7
+368	Mercedes-Benz E-Class Sedan	4
+369	Infiniti M Hybrid	1
+370	Saab 9-3 Sport Sedan	4
+371	Cadillac CTS Sport Sedan	1
+372	GMC Savana	2
+373	Nissan Versa Sedan	4
+374	Toyota Highlander	3
+375	Infiniti M	1
+376	Infiniti G37 Sedan	2
+377	Ford Ranger	1
+378	Ford Fiesta Hatchback	2
+379	MINI Cooper Convertible	1
+380	Bentley Mulsanne	1
+381	Honda Civic Sedan	5
+382	GMC Canyon	2
+383	Ford Mustang Shelby GT500 Convertible	2
+384	Lincoln MKZ	1
+385	Volkswagen Golf R 2-Door	1
+386	Mercedes-Benz M-Class	1
+387	GMC Yukon	1
+388	Jeep Wrangler	1
+389	Ford Focus Sedan	1
+390	Toyota Venza	1
+391	Aston Martin DB9 Volante	1
+392	Lincoln MKX	1
+393	Ford Mustang Shelby GT500 Coupe	1
+394	GMC Acadia	2
+395	Chevrolet Sonic Sedan	1
